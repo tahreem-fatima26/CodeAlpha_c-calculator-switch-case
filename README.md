@@ -1,2 +1,19 @@
-# CodeAlpha_c-calculator-switch-case
-A simple C program that performs basic arithmetic operations (Addition, Subtraction, Multiplication, Division) using switch-case statement. This is Task 1 of Alpha Code Internship.
+# C Calculator (Switch Case)
+
+## Description
+This project is a simple calculator written in C language. It performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Features
+- User input based
+- Switch-case implementation
+- Beginner friendly
+
+## Tech Used
+- C Language
+
+## Internship Task
+Alpha Code Internship - Task 1
